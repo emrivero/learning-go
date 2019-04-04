@@ -13,7 +13,7 @@ Gopher art-work by [egonelbre](https://github.com/egonelbre)
 
 ### 1. Variable declarations 
 * `var`keyword
-```
+```go
 // Typed declarations
 var number int = 2 
 var flag bool = true
